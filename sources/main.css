@@ -1,0 +1,25 @@
+
+.container
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: red;
+    /* background-image: url('sources/46.png');
+    background-size: cover;*/
+} 
+
+.container .questions
+{
+
+}
+
+.container .questions .question
+{
+    
+}
+
+.container .questions .answer
+{
+    
+}
